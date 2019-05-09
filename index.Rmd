@@ -1,0 +1,32 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+library(tidyverse)
+
+```
+
+```{r}
+library(gapminder)
+```
+
+```{r}
+head(gapminder)
+```
+
+```{r}
+nrow(gapminder)
+
+```
+
